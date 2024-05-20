@@ -1,4 +1,4 @@
-module github.com/heltru/gohttpclient
+module github.com/heltru/gohttpclient1
 
 go 1.20
 
